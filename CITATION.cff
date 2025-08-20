@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Modelando el “Camino al Perú”. Expresiones algebraicas del sistema de dominación colonial en la provincia de Salta, Argentina."
+version: "v1.0.0"
+date-released: "2025-08-20"
+authors:
+  - family-names: "Mignone"
+    given-names: "Pablo"
+repository-code: "https://github.com/pablomignone/camino-cost-model"
+license: "MIT"
+keywords: ["caminos coloniales", "modelo matemático", "costos de transporte"]
